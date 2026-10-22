@@ -22,11 +22,7 @@
   <img src="https://img.shields.io/badge/18%2B-adult%20content-critical" alt="18+ 成人内容">
 </p>
 
-<p align="center">
-  <video src="resources/preview.mp4" controls width="100%" poster="resources/preview.png">
-    <a href="resources/preview.mp4"><img src="resources/preview.png" alt="AvPlay 演示视频" width="100%"></a>
-  </video>
-</p>
+https://github.com/user-attachments/assets/ccb8d510-1d4d-44d9-90e5-b3d364a74e80
 
 > **声明 / Disclaimer**：本应用仅供研究与学习交流使用，请勿用于非法用途。This app is for research and learning only. Do not use it for illegal purposes.
 
