@@ -4,8 +4,6 @@
 
 <h1 align="center">AvPlay</h1>
 
----
-
 <p align="center">A beautiful and elegant APP · 全新的 AvPlay 来了！全平台覆盖 😊</p>
 
 <p align="center">
