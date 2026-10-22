@@ -26,13 +26,42 @@ https://github.com/user-attachments/assets/ccb8d510-1d4d-44d9-90e5-b3d364a74e80
 
 > **声明 / Disclaimer**：本应用仅供研究与学习交流使用，请勿用于非法用途。This app is for research and learning only. Do not use it for illegal purposes.
 
-## 下载与支持平台
+## 特色
 
-| 平台 | 下载地址 | 说明 |
-| :--- | :--- | :--- |
-| **Android** | [AvPlay.apk](https://github.com/anonymousjav/AvPlayRelease/releases/latest) | 支持手机、折叠屏及平板设备 |
-| **iOS** | [AvPlay.ipa](https://github.com/anonymousjav/AvPlayRelease/releases/latest) | 支持侧载工具安装 |
-| **Windows** | [AvPlay.zip](https://github.com/anonymousjav/AvPlayRelease/releases/latest) | x64 解压即用 |
-| **macOS** | [AvPlay.dmg](https://github.com/anonymousjav/AvPlayRelease/releases/latest) | 支持 Apple Silicon & Intel 架构 |
+- 包含日本、中文、欧美、动漫各类资源
+- 响应式设计、大屏观看也优雅
+- 在线观看、内置播放器
 
-详细下载与最新动态请访问官网：[javrocket.top](https://www.javrocket.top)
+---
+
+## iOS 安装说明
+
+在 iOS 设备上安装 AvPlay 需要使用“侧载”（Sideload）工具。<br>
+两种安装方案：[Sideloadly](https://sideloadly.io) 和 [AltStore](https://altstore.io/#Downloads)
+
+---
+
+## macOS 无法打开解决方案
+
+**方案 1**
+1. 在终端中输入以下命令并回车：
+```bash
+sudo xattr -dr com.apple.quarantine /Applications/AvPlay.app
+```
+
+**方案 2**
+1. 打开 `系统设置`
+2. 左侧栏找到 `隐私与安全性` 项
+3. 安全性设置点击 `仍要打开`
+
+---
+
+## 推荐网络与工具
+
+📢 如遇到访问不了，请自备梯子，推荐使用下面机场👇
+
+✈️ **WgetCloud** [点击这里](https://invite.wgetcloud.ltd/auth/register?code=7kMz)<br>
+WgetCloud是一个超稳中高端的机场，速度快而且稳🚀，流媒体全解锁，畅享Netflix、Disney🏰，一分价钱一分货，最低59/月140G
+
+🎬 **PikPak** [点击这里](https://mypikpak.com?invitation-code=29636995)<br>
+PikPak是一款私人云盘，可以在线极速播放影片，没有广告，可搭配磁力链接无缝使用，时不时搞优惠更是非常划算，推荐👍
