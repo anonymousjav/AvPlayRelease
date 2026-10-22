@@ -32,14 +32,10 @@ https://github.com/user-attachments/assets/ccb8d510-1d4d-44d9-90e5-b3d364a74e80
 - 响应式设计、大屏观看也优雅
 - 在线观看、内置播放器
 
----
-
 ## iOS 安装说明
 
 在 iOS 设备上安装 AvPlay 需要使用“侧载”（Sideload）工具。<br>
 两种安装方案：[Sideloadly](https://sideloadly.io) 和 [AltStore](https://altstore.io/#Downloads)
-
----
 
 ## macOS 无法打开解决方案
 
@@ -53,8 +49,6 @@ sudo xattr -dr com.apple.quarantine /Applications/AvPlay.app
 1. 打开 `系统设置`
 2. 左侧栏找到 `隐私与安全性` 项
 3. 安全性设置点击 `仍要打开`
-
----
 
 ## 推荐网络与工具
 
