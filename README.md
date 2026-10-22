@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymousjav/AvPlayRelease/releases"><img src="https://img.shields.io/github/v/release/anonymousjav/AvPlayRelease?include_prereleases&amp;sort=semver&amp;display_name=tag" alt="release"></a>
+  <a href="https://github.com/anonymousjav/AvPlayRelease/releases"><img src="https://img.shields.io/github/v/release/anonymousjav/AvPlayRelease?include_prereleases&amp;sort=semver&amp;display_name=tag&amp;color=ea7233" alt="release"></a>
   <a href="https://github.com/anonymousjav/AvPlayRelease/releases"><img src="https://img.shields.io/badge/Android-APK-3DDC84?logo=android&amp;logoColor=white" alt="Android"></a>
   <a href="https://github.com/anonymousjav/AvPlayRelease/releases"><img src="https://img.shields.io/badge/iOS-IPA-000000?logo=apple&amp;logoColor=white" alt="iOS"></a>
   <a href="https://github.com/anonymousjav/AvPlayRelease/releases"><img src="https://img.shields.io/badge/Windows-x64-0078D4?logo=windows&amp;logoColor=white" alt="Windows x64"></a>
