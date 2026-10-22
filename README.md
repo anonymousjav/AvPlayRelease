@@ -4,7 +4,7 @@
 
 <h1 align="center">AvPlay</h1>
 
-<p align="center">A beautiful and elegant APP · 全新的 AvPlay 来了！全平台覆盖 😊</p>
+<p align="center">一个优雅的开车App · 全新的 AvPlay 来了！全平台覆盖 😊</p>
 
 <p align="center">
   <a href="https://www.javrocket.top">官网</a> ·
